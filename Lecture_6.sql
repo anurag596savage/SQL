@@ -40,6 +40,8 @@ using(student_id);
 
 select * from student_information;
 
+drop view student_information;
+
 /*
 
 A view is a virtual table based on result set of an SQL query.alter
